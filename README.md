@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Reservations**
 
-- 🌱 I’m currently learning **Docker** and **Springboot**
+- 🌱 I’m currently learning **Podman** and **Springboot**
 
 - ⚡ Fun fact **I like to code**
 

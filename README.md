@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I like to code**
 
+- 🎯 **Coding**, travel and food 
+
 <br/>
 
 <h3 align="left">Connect with me:</h3>

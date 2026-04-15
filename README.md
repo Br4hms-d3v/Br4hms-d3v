@@ -88,8 +88,14 @@
 
 ---
 
+<div align="center">
+  
 ## 📊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Br4hms-d3v/Br4hms-d3v/main/profile-3d-contrib.yml/profile-night-view.svg" />
+  <img src="https://raw.githubusercontent.com/Br4hms-d3v/Br4hms-d3v/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
+</div>
+
+---

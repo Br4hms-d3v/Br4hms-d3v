@@ -20,54 +20,60 @@
 
 ---
 
+## 💻 Tech Stack
 <div align="center">
 
+## 💻 Tech Stack
+
 <table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td style="white-space: nowrap;">
-      <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-      <a href="https://html.spec.whatwg.org/multipage/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-      <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-      <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-      <a href="https://www.freepascal.org/"><img src="https://www.freepascal.org/pic/logo.gif" width="40"/></a>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="300">
 
-  <tr>
-    <td><b>Frameworks</b></td>
-    <td style="white-space: nowrap;">
-      <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-      <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></a>
-    </td>
-  </tr>
+### 🧠 Languages  
+<img src="https://skillicons.dev/icons?i=java,html,css,ts" /><br><br>
+<img src="https://img.shields.io/badge/Pascal-00599C?style=for-the-badge&logo=pascal&logoColor=white"/>
 
-  <tr>
-    <td><b>Databases</b></td>
-    <td style="white-space: nowrap;">
-      <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-    </td>
-  </tr>
+</td>
 
-  <tr>
-    <td><b>Software</b></td>
-    <td style="white-space: nowrap;">
-      <a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/></a>
-      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-      <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-      <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-      <a href="https://www.lazarus-ide.org/"><img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" width="40"/></a>
-    </td>
-  </tr>
+<td align="center" width="300">
 
-  <tr>
-    <td><b>Libraries</b></td>
-    <td style="white-space: nowrap;">
-      <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-      <a href="https://material.angular.io/"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></a>
-    </td>
-  </tr>
+### ⚙️ Frameworks  
+<img src="https://skillicons.dev/icons?i=spring,angular" /><br><br>
+<img src="https://img.shields.io/badge/Angular%20Material-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=postgres,mysql" /><br><br>
+<img src="https://img.shields.io/badge/H2-0A1A2F?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools  
+<img src="https://skillicons.dev/icons?i=idea,git,postman,figma" /><br><br>
+<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lazarus-1E90FF?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 📚 Libraries  
+<img src="https://skillicons.dev/icons?i=bootstrap,angular" />
+
+</td>
+</tr>
+
 </table>
 
 </div>

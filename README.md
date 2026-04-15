@@ -82,7 +82,7 @@
 
 <div align="center">
   
-## 📈 Contribution Graph
+## 📈 Contribution
 
 ![Snake animation](https://raw.githubusercontent.com/Br4hms-d3v/Br4hms-d3v/output/github-snake-dark.svg)
 
@@ -92,7 +92,7 @@
 
 <div align="center">
   
-## 📊 3D Contribution Graph
+## 📊 3D Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Br4hms-d3v/Br4hms-d3v/main/profile-3d-contrib/profile-night-rainbow.svg" />

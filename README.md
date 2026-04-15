@@ -17,6 +17,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ---
 
@@ -82,9 +83,10 @@
 <div align="center">
   
 ## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Br4hms-d3v&theme=tokyo-night" />
 
-</div
+![Snake animation](https://raw.githubusercontent.com/Br4hms-d3v/Br4hms-d3v/output/github-snake-dark.svg)
+
+</div>
 
 ---
 

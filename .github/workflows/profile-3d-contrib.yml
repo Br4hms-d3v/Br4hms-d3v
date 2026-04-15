@@ -1,4 +1,7 @@
 name: GitHub-Profile-3D-Contrib
+permissions:
+  contents: write
+
 
 on:
   schedule:
